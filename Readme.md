@@ -26,9 +26,12 @@
 
 ## 📝 ขั้นตอนที่ 1: สร้าง Google Forms รับข้อมูล (Data Collection)
 
-1. เข้าไปที่ [forms.google.com](https://forms.google.com) ด้วยบัญชี Gmail ส่วนบุคคล (`@gmail.com`)
+•	Login Account:  @g.swu.ac.th  หรือ Gmail ส่วนบุคคล (`@gmail.com`)
+•	สร้าง Folder ZSC09/Ass-W14  ไว้ใน My Drive ของนักศึกษา
 
-2. คลิกสร้างแบบฟอร์มใหม่ (Blank form) ตั้งชื่อแบบฟอร์มว่า:
+1. เข้าไปที่ folder ZSC09/Ass-W14  ไว้ใน My Drive ของนักศึกษา  
+
+2. คลิก New สร้าง Google Form  แบบฟอร์มใหม่ (Blank form) ตั้งชื่อแบบฟอร์มว่า:
 
    **"แบบสอบถามความพึงพอใจร้าน Cha-Shabu Bar"**  หรือชื่อร้าน/สินค้า/บริการ อื่นๆ ตามใจชอบ
 
